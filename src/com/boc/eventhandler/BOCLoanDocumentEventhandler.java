@@ -29,7 +29,7 @@ import com.filenet.apiimpl.query.RepositoryRowImpl;
 
 /**
  * 
- * @author C734363
+ * @author Gihan
  *
  */
 public class BOCLoanDocumentEventhandler implements EventActionHandler {
