@@ -11,7 +11,7 @@ import com.filenet.api.util.UserContext;
 
 /**
  * 
- * @author C734363
+ * @author Gihan
  *
  */
 public class FileNetConnection {
