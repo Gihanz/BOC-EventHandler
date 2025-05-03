@@ -11,7 +11,7 @@ import org.apache.log4j.PropertyConfigurator;
 
 /**
  * 
- * @author C734363
+ * @author Gihan
  *
  */
 public class PropertyReader {
